@@ -6,4 +6,8 @@
 //  Copyright © 2019 twisted echo. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+public struct Metrics {
+    public static let regular: CGFloat = 20
+}
